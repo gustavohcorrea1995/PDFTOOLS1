@@ -1,0 +1,14 @@
+OCR ADICIONADO
+
+Novo recurso: "OCR — Tornar PDF pesquisável".
+
+Ele aceita PDF escaneado ou imagem e gera um PDF com camada de texto
+pesquisável, preservando a aparência visual. O PDF gerado pode ser
+aberto no editor existente para editar/excluir textos.
+
+Arquivos alterados:
+- server.js
+- public/app.js
+- Dockerfile
+
+As ferramentas existentes foram mantidas.
