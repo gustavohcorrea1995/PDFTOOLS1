@@ -37,3 +37,5 @@ Depois faça um novo deploy.
 7. Abra o PDF salvo e tente selecionar/copiar o trecho apagado.
 
 O conteúdo selecionado para exclusão é removido por redação permanente antes do PDF final ser gerado.
+
+<!-- Render deploy trigger: 2026-08-20 -->
